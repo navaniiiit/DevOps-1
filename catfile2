@@ -1,0 +1,2 @@
+create file through cat cmmand cat > filename
+this file data content updated through cat command cat >> filename
